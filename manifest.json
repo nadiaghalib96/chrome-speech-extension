@@ -1,0 +1,17 @@
+{
+    "name": "Nody Speech App",
+    "version": "1.0.0",
+    "default_locale": "en",
+    "description": "latest Nody Speech app",
+    "manifest_version": 3,
+    "author": "Nody",
+    "action":{
+        "default_icon": {            
+            "16": "images/icon16.png", 
+            "24": "images/icon24.png",   
+            "32": "images/icon32.png"    
+        },
+        "default_popup": "index.html",
+        "default_title": "Latest Nody Speech App"
+    }
+}
